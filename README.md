@@ -3,7 +3,7 @@ Sheet music adapted for melodica
 
 ---
 
-The melodica is a charming piece of musical instrument, and it allows much freedom in creative music making. However, like any instrument, playing the melodica is like dancing in shackles: limitless imagination is presented within certain restrictions. 
+The melodica is a charming piece of musical instrument, and it allows much freedom in creative music making. However, like any instrument, playing the melodica is like dancing in shackles: limitless imagination is presented within certain restrictions.
 
 For example, two most common configurations of the melodica are the 32-key model and the 37-key model, featuring no more than three full sets of octaves. Moreover, for many (cheap) melodicas, it sounds badly to blow more than three keys at a time, making any chords more than a simple triad unfavorable.
 
@@ -14,4 +14,5 @@ I am trying to use public domain resources, but if anything happen to be an infr
 The sheet music editor I am currently using is [MuseScore](https://www.musescore.com/).
 
 ## Contents
-1. Do you hear the people sing
+1. *Do you hear the people sing*, from the musical *Les Misérables*, by Claude-Michel Schönberg
+2. *Ständchen*, from the song cycle *Schwanengesang*, D.957, by Franz Schubert
