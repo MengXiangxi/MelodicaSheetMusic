@@ -16,3 +16,4 @@ The sheet music editor I am currently using is [MuseScore](https://www.musescore
 ## Contents
 1. *Do you hear the people sing*, from the musical *Les Misérables*, by Claude-Michel Schönberg
 2. *Ständchen*, from the song cycle *Schwanengesang*, D.957, by Franz Schubert
+3. *Love Me Tender*, by Elvis Presley
