@@ -11,10 +11,11 @@ In this project, I am going to make very simple adaptions to some sheet music so
 
 I am trying to use public domain resources, but if anything happen to be an infringement of anyone's right, it should be immediately removed upon notification.
 
-The sheet music editor I am currently using is [MuseScore](https://www.musescore.com/).
+The sheet music editor I am currently using is [MuseScore](https://www.musescore.com/). Users of other music software can import the MusicXML file provided.
 
 ## Contents
 1. *Do you hear the people sing*, from the musical *Les Misérables*, by Claude-Michel Schönberg
 2. *Ständchen*, from the song cycle *Schwanengesang*, D.957, by Franz Schubert
 3. *Love Me Tender*, by Elvis Presley
-4. *Brindisi (Libiamo ne' lieti calici)*, from the opera *La traviata*, by Giuseppe Verdi 
+4. *Brindisi (Libiamo ne' lieti calici)*, from the opera *La traviata*, by Giuseppe Verdi
+5. *Star Wars Theme / Cantina Band*, featured in the movie *Star Wars*, by John Williams and arranged as a brass band quartet by Charlie Wilkinson
