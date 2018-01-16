@@ -12,7 +12,7 @@ In this project, I am going to make very simple adaptions to some sheet music so
 
 I am trying to use public domain resources, but if anything happen to be an infringement of anyone's right, it should be immediately removed upon notification.
 
-The sheet music editor I am currently using is [MuseScore](https://www.musescore.com/). Users of other music software can import the MusicXML file provided.
+The sheet music editor I am currently using is [MuseScore](https://www.musescore.com/). Users of other music software can import the [MusicXML](http://www.musicxml.com/) file provided.
 
 ## Contents
 
