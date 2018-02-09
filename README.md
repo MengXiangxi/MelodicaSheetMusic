@@ -22,3 +22,4 @@ The sheet music editor I am currently using is [MuseScore](https://www.musescore
 1. *Brindisi (Libiamo ne' lieti calici)*, from the opera *La traviata*, by Giuseppe Verdi
 1. *Star Wars Theme / Cantina Band*, featured in the movie *Star Wars*, by John Williams and arranged as a brass band quartet by Charlie Wilkinson
 1. *Moment Musicaux No.3 in F Minor, Op. 94 No. 3*, by Franz Schubert
+1. *Spring Festival Overture*, by Li Huanzhi, and arranged for violin and piano by Hua-Cheng Situ
