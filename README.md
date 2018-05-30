@@ -17,10 +17,11 @@ The sheet music editor I am currently using is [MuseScore](https://www.musescore
 ## Contents
 
 1. *Do you hear the people sing*, from the musical *Les Misérables*, by Claude-Michel Schönberg
-1. *Ständchen*, from the song cycle *Schwanengesang*, D.957, by Franz Schubert
+1. *Ständchen*, from the song cycle *Schwanengesang, D.957*, by Franz Schubert
 1. *Love Me Tender*, by Elvis Presley
 1. *Brindisi (Libiamo ne' lieti calici)*, from the opera *La traviata*, by Giuseppe Verdi
 1. *Star Wars Theme / Cantina Band*, featured in the movie *Star Wars*, by John Williams and arranged as a brass band quartet by Charlie Wilkinson
 1. *Moment Musicaux No.3 in F Minor, Op. 94 No. 3*, by Franz Schubert
 1. *Spring Festival Overture*, by Li Huanzhi, and arranged for violin and piano by Hua-Cheng Situ
 1. *Eine Kleine Nachtmusik, Movement 1*, by Walfgang A. Mozart
+1. *Duetto Buffo di due Gatti*, by Gioachino Rossini
